@@ -1,4 +1,7 @@
-# video-browser
+# youtube-video-browser-clone
+
+## Quick Look
+![](images/demo_img.png)
 
 ## Project setup
 ```
