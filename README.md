@@ -1,4 +1,7 @@
-# video-browser
+# youtube-video-browser
+
+## Quick Look
+![](images/filename demo_img.png)
 
 ## Project setup
 ```
